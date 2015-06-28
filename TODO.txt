@@ -1,0 +1,9 @@
+- Cambiar repositorio (remote actual) para que vaya por autenticación ssh y no https
+- Crear estructura:
+	- Una carpeta por aplicación a probar
+	- Test runner en raiz
+
+- Crear tests del servidor para firefox
+
+- Test runner para python "nose"
+
